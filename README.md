@@ -4,3 +4,5 @@
 
 #Previously worked as a principal data analyst for four years, using SPSS and R as the primary data analysis tools. Conducted quantitative research via online, phone, mail, hybrid, mode-split surveys and research panels. Specialized in finding innovative ways to streamline data processes across offices and trained junior data associates.
 
+#Working on a data analytics course at LSE
+
